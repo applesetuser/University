@@ -1,0 +1,1 @@
+Simple app to manage clinic; includes database with users and doctors.
