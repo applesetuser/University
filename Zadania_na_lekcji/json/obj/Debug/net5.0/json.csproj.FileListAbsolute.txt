@@ -1,0 +1,16 @@
+/Users/ik/Documents/C#/Zadania_na_lekcji/json/bin/Debug/net5.0/json.deps.json
+/Users/ik/Documents/C#/Zadania_na_lekcji/json/bin/Debug/net5.0/json.runtimeconfig.json
+/Users/ik/Documents/C#/Zadania_na_lekcji/json/bin/Debug/net5.0/json.runtimeconfig.dev.json
+/Users/ik/Documents/C#/Zadania_na_lekcji/json/bin/Debug/net5.0/json.dll
+/Users/ik/Documents/C#/Zadania_na_lekcji/json/bin/Debug/net5.0/ref/json.dll
+/Users/ik/Documents/C#/Zadania_na_lekcji/json/bin/Debug/net5.0/json.pdb
+/Users/ik/Documents/C#/Zadania_na_lekcji/json/bin/Debug/net5.0/Newtonsoft.Json.dll
+/Users/ik/Documents/C#/Zadania_na_lekcji/json/obj/Debug/net5.0/json.csproj.AssemblyReference.cache
+/Users/ik/Documents/C#/Zadania_na_lekcji/json/obj/Debug/net5.0/json.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ik/Documents/C#/Zadania_na_lekcji/json/obj/Debug/net5.0/json.AssemblyInfoInputs.cache
+/Users/ik/Documents/C#/Zadania_na_lekcji/json/obj/Debug/net5.0/json.AssemblyInfo.cs
+/Users/ik/Documents/C#/Zadania_na_lekcji/json/obj/Debug/net5.0/json.csproj.CoreCompileInputs.cache
+/Users/ik/Documents/C#/Zadania_na_lekcji/json/obj/Debug/net5.0/json.dll
+/Users/ik/Documents/C#/Zadania_na_lekcji/json/obj/Debug/net5.0/ref/json.dll
+/Users/ik/Documents/C#/Zadania_na_lekcji/json/obj/Debug/net5.0/json.pdb
+/Users/ik/Documents/C#/Zadania_na_lekcji/json/obj/Debug/net5.0/json.genruntimeconfig.cache

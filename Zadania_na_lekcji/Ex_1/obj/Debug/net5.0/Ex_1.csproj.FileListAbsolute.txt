@@ -1,0 +1,15 @@
+/Users/ik/Documents/C#/Zadania_na_lekcji/Ex_1/bin/Debug/net5.0/Ex_1.deps.json
+/Users/ik/Documents/C#/Zadania_na_lekcji/Ex_1/bin/Debug/net5.0/Ex_1.runtimeconfig.json
+/Users/ik/Documents/C#/Zadania_na_lekcji/Ex_1/bin/Debug/net5.0/Ex_1.runtimeconfig.dev.json
+/Users/ik/Documents/C#/Zadania_na_lekcji/Ex_1/bin/Debug/net5.0/Ex_1.dll
+/Users/ik/Documents/C#/Zadania_na_lekcji/Ex_1/bin/Debug/net5.0/ref/Ex_1.dll
+/Users/ik/Documents/C#/Zadania_na_lekcji/Ex_1/bin/Debug/net5.0/Ex_1.pdb
+/Users/ik/Documents/C#/Zadania_na_lekcji/Ex_1/obj/Debug/net5.0/Ex_1.csproj.AssemblyReference.cache
+/Users/ik/Documents/C#/Zadania_na_lekcji/Ex_1/obj/Debug/net5.0/Ex_1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ik/Documents/C#/Zadania_na_lekcji/Ex_1/obj/Debug/net5.0/Ex_1.AssemblyInfoInputs.cache
+/Users/ik/Documents/C#/Zadania_na_lekcji/Ex_1/obj/Debug/net5.0/Ex_1.AssemblyInfo.cs
+/Users/ik/Documents/C#/Zadania_na_lekcji/Ex_1/obj/Debug/net5.0/Ex_1.csproj.CoreCompileInputs.cache
+/Users/ik/Documents/C#/Zadania_na_lekcji/Ex_1/obj/Debug/net5.0/Ex_1.dll
+/Users/ik/Documents/C#/Zadania_na_lekcji/Ex_1/obj/Debug/net5.0/ref/Ex_1.dll
+/Users/ik/Documents/C#/Zadania_na_lekcji/Ex_1/obj/Debug/net5.0/Ex_1.pdb
+/Users/ik/Documents/C#/Zadania_na_lekcji/Ex_1/obj/Debug/net5.0/Ex_1.genruntimeconfig.cache
