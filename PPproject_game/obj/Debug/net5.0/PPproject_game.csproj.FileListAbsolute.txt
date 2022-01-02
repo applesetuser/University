@@ -1,0 +1,15 @@
+/Users/ik/Code/University/PPproject_game/obj/Debug/net5.0/PPproject_game.csproj.AssemblyReference.cache
+/Users/ik/Code/University/PPproject_game/obj/Debug/net5.0/PPproject_game.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ik/Code/University/PPproject_game/obj/Debug/net5.0/PPproject_game.AssemblyInfoInputs.cache
+/Users/ik/Code/University/PPproject_game/obj/Debug/net5.0/PPproject_game.AssemblyInfo.cs
+/Users/ik/Code/University/PPproject_game/obj/Debug/net5.0/PPproject_game.csproj.CoreCompileInputs.cache
+/Users/ik/Code/University/PPproject_game/bin/Debug/net5.0/PPproject_game.deps.json
+/Users/ik/Code/University/PPproject_game/bin/Debug/net5.0/PPproject_game.runtimeconfig.json
+/Users/ik/Code/University/PPproject_game/bin/Debug/net5.0/PPproject_game.runtimeconfig.dev.json
+/Users/ik/Code/University/PPproject_game/bin/Debug/net5.0/PPproject_game.dll
+/Users/ik/Code/University/PPproject_game/bin/Debug/net5.0/ref/PPproject_game.dll
+/Users/ik/Code/University/PPproject_game/bin/Debug/net5.0/PPproject_game.pdb
+/Users/ik/Code/University/PPproject_game/obj/Debug/net5.0/PPproject_game.dll
+/Users/ik/Code/University/PPproject_game/obj/Debug/net5.0/ref/PPproject_game.dll
+/Users/ik/Code/University/PPproject_game/obj/Debug/net5.0/PPproject_game.pdb
+/Users/ik/Code/University/PPproject_game/obj/Debug/net5.0/PPproject_game.genruntimeconfig.cache
